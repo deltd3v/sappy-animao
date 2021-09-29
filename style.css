@@ -111,6 +111,13 @@ body {
   }
 }
 
+.col {
+  display: flex;
+  align-items: column;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .col-left {
   display: flex;
   flex-direction: column;
